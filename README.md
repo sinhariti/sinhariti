@@ -1,3 +1,4 @@
+![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/banner.png)
 <h1 align="left">Hello, It's Riti Sinha</h1>
 
 <h3 align="left">Connect with me:</h3>
