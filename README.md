@@ -1,17 +1,6 @@
 ### Hi there 👋
 
 <h1 align="left">Hello, It's Riti Sinha</h1>
-<h4 align="left">Always exploring tech industry!</h4>
-
-- 🔭 I’m currently working on [College Projects](https://github.com/sinhariti/LearnAce)
-
-- 🌱 I’m currently learning **JavaScript, DSA**
-
-- 📎 All my art and crafts are available at [https://pin.it/3Qnk8RR](https://pin.it/3Qnk8RR)
-
-- 💬 Ask me about **Python, Bullet Jounrals**
-
-- 📫 How to reach me **sinha.riti@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,3 +14,13 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sinhariti&show_icons=true&locale=en&layout=compact" alt="sinhariti" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sinhariti&" alt="sinhariti" /></p>
+
+- 🔭 I’m currently working on [College Projects](https://github.com/sinhariti/LearnAce)
+
+- 🌱 I’m currently learning **JavaScript, DSA**
+
+- 📎 All my art and crafts are available at [https://pin.it/3Qnk8RR](https://pin.it/3Qnk8RR)
+
+- 💬 Ask me about **Python, Bullet Jounrals**
+
+- 📫 How to reach me **sinha.riti@gmail.com**
