@@ -13,8 +13,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sinhariti&" alt="sinhariti" /></p>
 
-🔭 I’m currently working on [College Projects](https://github.com/sinhariti/LearnAce)
-🌱 I’m currently learning **JavaScript, DSA**
-📎 All my art and crafts are available at [https://pin.it/3Qnk8RR](https://pin.it/3Qnk8RR)
-💬 Ask me about **Python, Bullet Jounrals**
-📫 How to reach me **sinha.riti@gmail.com**
+🔭 I’m currently working on [College Projects](https://github.com/sinhariti/LearnAce)<br>
+🌱 I’m currently learning **JavaScript, DSA**<br>
+📎 All my art and crafts are available at [https://pin.it/3Qnk8RR](https://pin.it/3Qnk8RR)<br>
+💬 Ask me about **Python, Bullet Jounrals**<br>
+📫 How to reach me **sinha.riti@gmail.com**<br>
