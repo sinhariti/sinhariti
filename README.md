@@ -14,7 +14,7 @@
 ## Github Stats
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sinhariti&count_private=true&show_icons=true&theme=onedark" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sinhariti&theme=onedark" />
+ 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinhariti&langs_count=10&layout=compact&theme=onedark" />
 <!--   <img src="https://github-readme-activity-graph.vaasu2002.repl.co/graph?username=vaasu2002&theme=radical&bg_color=onedark&point=00000000&line=E3BE7A&hide_border=true&custom_title=Keep+Exploring,+Learning+and+Contributing+away...&color=#2E2C34&area=true&area_color=#2E2C34"> -->
 </p>
