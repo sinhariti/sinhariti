@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="left">Hello, It's Riti Sinha</h1>
 
 <h3 align="left">Connect with me:</h3>
