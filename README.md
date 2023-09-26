@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/banner.png)
+<img src="https://github.com/sinhariti/sinhariti/blob/10f26384f9686f2c95169c9f1fa8e86fdd1e8cca/banner.png">
 <h1 align="left">Hello, It's Riti Sinha</h1>
 
 <h3 align="left">Connect with me:</h3>
