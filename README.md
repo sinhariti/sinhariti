@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<h1 align="center">Hello, It's Riti Sinha</h1>
-<h3 align="center">Always exploring tech industry!</h3>
+<h1 align="left">Hello, It's Riti Sinha</h1>
+<h4 align="left">Always exploring tech industry!</h4>
 
 - 🔭 I’m currently working on [College Projects](https://github.com/sinhariti/LearnAce)
 
