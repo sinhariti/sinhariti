@@ -20,8 +20,8 @@
 <!--   <img src="https://github-readme-activity-graph.vaasu2002.repl.co/graph?username=vaasu2002&theme=radical&bg_color=onedark&point=00000000&line=E3BE7A&hide_border=true&custom_title=Keep+Exploring,+Learning+and+Contributing+away...&color=#2E2C34&area=true&area_color=#2E2C34"> -->
 </p>
 
-🔭 I’m currently working on [College Projects](https://github.com/Yadubir)<br>
-🌱 I’m currently learning **JavaScript, DSA**<br>
+🔭 I’m currently working on [Projects](https://github.com/Yadubir)<br>
+🌱 I’m currently learning **DevOps, DSA**<br>
 📎 All my art and crafts are available at [https://pin.it/3Qnk8RR](https://pin.it/3Qnk8RR)<br>
 💬 Ask me about **Python, Bullet Jounrals**<br>
 📫 How to reach me **sinha.riti@gmail.com**<br>
